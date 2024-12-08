@@ -9,4 +9,8 @@ certifi
 scikit-learn
 dill
 pyaml
+fastapi
+uvicorn
+jinja2
+python-multipart
 ## -e .
